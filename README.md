@@ -1,4 +1,4 @@
-## PDF Chatbot using Streamlit, Langchain, FAISS, and Vertex AI
+## Multiple PDFs Chatbot using Streamlit, Langchain, FAISS, and Vertex AI
 
 ![Chatbot](./assets/stack.png)
 
@@ -27,8 +27,8 @@ Follow the steps below to set up and run the PDF chatbot:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pdf-chatbot.git
-cd pdf-chatbot
+git clone https://github.com/ridwanspace/multiple-pdf-chatbot.git
+cd multiple-pdf-chatbot
 ```
 
 #### 2. Install Dependencies
