@@ -27,8 +27,8 @@ Follow the steps below to set up and run the PDF chatbot:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ridwanspace/multiple-pdf-chatbot.git
-cd multiple-pdf-chatbot
+git clone https://github.com/ridwanspace/multiple-pdf-chatbot-vertexai.git
+cd multiple-pdf-chatbot-vertexai
 ```
 
 #### 2. Install Dependencies
