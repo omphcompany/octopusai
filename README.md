@@ -14,7 +14,7 @@ This repository contains a multiple PDFs chatbot built using Streamlit, Python, 
 
 ### Features
 1. Upload multiple PDF files.
-2. Specify a GCP service account (JSON) for authentication.
+2. Specify a GCP service account (JSON) for authentication. Please add `(Vertex AI User)` role to service account.
 3. Provide the GCP project ID for accessing Vertex AI services.
 4. Extract information from the uploaded PDFs using Langchain by entering the question.
 5. Able to memorize the previous question
